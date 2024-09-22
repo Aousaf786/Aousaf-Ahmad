@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aousaf Ahmed Malik</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Malik</h1>
 <h3 align="center">Full Stack Developer | MERN, AI, Web 3.0 Expert | 7 Years of Remote Work Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aousaf786&label=Profile%20views&color=0e75b6&style=flat" alt="aousaf786" /> </p>
